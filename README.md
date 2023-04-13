@@ -13,5 +13,6 @@ Ao acessar a classe basica categoria, o usuario terá as seguintes funcionalidad
 **.** Buscar todas categorias <br>
 **.** Buscar uma categoria específica com base no seu ID <br>
 **.** Remover uma categoria em específico. <br>
-Onde cada funcionalidade funciona de acordo com o que está sendo proposto.
+Onde cada funcionalidade funciona de acordo com o que está sendo proposto. <br>
+**Percebemos um erro na persistência dos dados, no caso o erro é que os dados não ficam armazenados quando troca de um menu para o outro, tentamos de todas as formas corrigir esse erro, porém ele ainda continuou aparecendo**
 
