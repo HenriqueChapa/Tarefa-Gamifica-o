@@ -1,4 +1,4 @@
-# Tarefa-Gamifica-o
+# Tarefa-Gamificão
 
 Nesse arquivo contém um trabalho feito para um Sistema de Gerenciamento de Vendas de uma Loja de Roupas, nele temos 4 classes especificas, que são elas: <br>
 **Produto**: que é uma classe que representa os produtos disponíveis na loja. <br>
